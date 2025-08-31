@@ -1,0 +1,2 @@
+# RARCulturalVariatedContentGeneration
+Cultural Variated Content Generation
