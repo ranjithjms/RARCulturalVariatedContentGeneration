@@ -1,2 +1,7 @@
-# RARCulturalVariatedContentGeneration
-Cultural Variated Content Generation
+# CulturalVariatedContentGeneration
+
+
+Content Generation (CG), which provides meaningful descriptions to aid people in easily understanding the visual content, is the process of creating descriptive text for images. Nevertheless, existing works failed to investigate festive moments and individual culture during CG, thereby causing inaccuracies in differentiating cultural contexts for more effective understanding. Hence, to overcome these problems, Dual Attention-based MinTheil’sTsallis-LeL2Cun Sin-Shifted Convoluted Gated Recurrent Unit (DAM (TL)2C2S-CGRU) with multi-data for CG enhancement is utilized in the proposed work. Initially, the images are gathered and pre-processed. Thereafter, the objects in the image are detected. Afterward, human images are extracted and their emotions are identified for understanding the clear information of the image. Lastly, the preprocessed image, detected objects, symbols, birds/animals, recognized emotions, and dress, color, and facial features of humans are inputted into the DAM (TL)2C2S-CGRU classifier. For more efficient understanding, the classifier further generates culturally varied enhanced contents with an accuracy of 99.67%. Moreover, the proposed work performed superior to the conventional methods.
+
+
+Keywords: Canonical Renyi Correlation based Median Filter (CRC-MF), Contrast Limited Adaptive Histogram Equalization (CLAHE), Eta-Kendall’s Tau-based RetinaNet (EKT-RN), SCramér'sV Fuzzy (SCV-Fuzzy), Generating Captions, Text Conversion, and Emotion Recognition (ER).
